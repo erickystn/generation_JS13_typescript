@@ -9,10 +9,12 @@ import leitor = require("readline-sync");
 
 const listaSet: Set<number> = new Set<number>([2, 5, 1, 3, 4, 9, 7, 8, 10, 6]);
 
-const valorBuscado: number = leitor.questionInt(`Digite o valor a ser buscado: `);
+const valorBuscado: number = leitor.questionInt(
+  `Digite o valor a ser buscado: `,
+);
 
-if(!listaSet.has(valorBuscado)){
-    console.log(`O número ${valorBuscado} não foi encontrado!`)
-}else{
-    console.log(`O número ${valorBuscado} foi encontrado!`)
+if (!listaSet.has(valorBuscado)) {
+  console.log(`O número ${valorBuscado} não foi encontrado!`);
+} else {
+  console.log(`O número ${valorBuscado} foi encontrado!`);
 }
