@@ -46,11 +46,11 @@ Os exemplos foram desenvolvidos com base nas aulas ao vivo (*Live Codes*) e em e
 
 | Aula    | Tema                     | Descrição                                            |
 | ------- | ------------------------ | ---------------------------------------------------- |
-| Aula 01 | Introdução ao TypeScript com Array e Set | Primeiros passos, estrutura básica e saída de dados  |
-| Aula 02 | Variáveis e Operadores   | Entrada de dados, variáveis, constantes e operadores |
-| Aula 03 | Estruturas Condicionais  | `if`, `else`, `switch`, operadores lógicos           |
-| Aula 04 | Laços de Repetição       | `for`, `while` e `do…while`                          |
-| Aula 05 | Arrays                   | Vetores e matrizes                                   |
+| Aula 01 | Introdução ao TypeScript com Array e Set | Primeiros passos e utilização das Collections  |
+| Aula 02 |   |  |
+| Aula 03 |   |            |
+| Aula 04 |        |                           |
+| Aula 05 |                   |                                    |
 
 <br />
 
@@ -91,7 +91,7 @@ Para executar os exemplos localmente, você precisará de:
 1. Clone o repositório
 
 ```bash
-git clone https://github.com/rafaelq80/javascript_tjs13.git
+git clone https://github.com/erickystn/generation_JS13_typescript
 ```
 
 2. Abra a pasta do projeto no **Visual Studio Code**
