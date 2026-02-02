@@ -8,8 +8,8 @@
 // Caso a pilha esteja vazia, ao tentar retirar um livro da pilha, 
 // o programa deverá informar que a pilha está vazia.
 
-import Stack = require("../Stack");
-import leitor = require("readline-sync");
+import Stack from "../Stack";
+import leitor from "readline-sync";
 const fila = new Stack<string>();
 const menu =`
 ${"*".repeat(50)}

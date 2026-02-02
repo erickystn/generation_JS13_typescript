@@ -9,7 +9,7 @@ interface queueInterface<Type> {
   clear(): void;
 }
 
-class Queue<Type> implements queueInterface<Type> {
+export default class Queue<Type> implements queueInterface<Type> {
   private QueueData: Array<Type> = [];
 
   constructor() {}
@@ -71,4 +71,4 @@ class Queue<Type> implements queueInterface<Type> {
   }
 }
 
-export = Queue;
+

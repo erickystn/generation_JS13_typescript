@@ -1,4 +1,4 @@
-import leitor = require("readline-sync");
+import leitor from "readline-sync";
 
 let numero1: number, numero2: number;
 
