@@ -47,7 +47,7 @@ Os exemplos foram desenvolvidos com base nas aulas ao vivo (*Live Codes*) e em e
 | Aula    | Tema                     | Descrição                                            |
 | ------- | ------------------------ | ---------------------------------------------------- |
 | Aula 01 | Introdução ao TypeScript com Array e Set | Primeiros passos e utilização das Collections  |
-| Aula 02 |   |  |
+| Aula 02 | Colleção Map, Estrutura de Dados  | Uso de Queue e Stack (Fila e Pilha) |
 | Aula 03 |   |            |
 | Aula 04 |        |                           |
 | Aula 05 |                   |                                    |
